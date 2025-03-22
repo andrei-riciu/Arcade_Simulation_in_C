@@ -1,4 +1,4 @@
-# Arcade_Simulation_in_C
+# arcade-simulation-in-C
 
 Acest proiect consta in implementarea in limbajul C a unei simulari de joc tip ARCADE cu ajutorul matricilor si a pointerilor.
 Cerintele pentru fiecare task pot fi gasite aici https://ocw.cs.pub.ro/courses/programare/teme_2024/tema1_2024_cbd
